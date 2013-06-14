@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="dark-header-bar">
+	<p class="header-bar-title">Header Bar</p>
+</div>
+ ]]></content>
+	<tabTrigger>tc:hb</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat header bar</description>
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<section class="dialog-zone">
+
+	<aside class="dark-dialog">
+		<h1>Are eagles nice?</h1>
+		<div class="dialog-buttons">
+			<a href="#" class="dark-cta dark-button" role="button">Yes!</a>
+			<a href="#" class="dark-button" role="button">No</a>
+		</div>
+	</aside>
+
+	<div class="dialog-overlay"></div>
+</section>
+]]></content>
+	<tabTrigger>tc:o</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat overlay</description>
+</snippet>

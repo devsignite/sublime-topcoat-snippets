@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<input type="search" class="dark-search-input ${1:'disabled|large-text-input'}" value="" placeholder="Large Search">
+<p>
+	<a href="#mobile-button" class="dark-button" role="button">Button</a>
+	<a class="dark-button disabled" role="button" aria-disabled="true">Disabled Button</a>
+</p>
+<p>
+	<a href="#mobile-button" class="quiet-button dark-button" role="button">Quiet Button</a>
+	<a class="quiet-button dark-button disabled" role="button" aria-disabled="true">Disabled Button</a>
+</p>
+<p>
+	<a href="#mobile-button" class="large-button dark-button" role="button">Large Button</a>
+	<a class="large-button quiet-button dark-button disabled" role="button" aria-disabled="true">Disabled Button</a>
+</p>
+<p>
+	<a href="#mobile-button" class="large-button quiet-button dark-button" role="button">Large Quiet Button</a>
+	<a class="large-button quiet-button dark-button disabled" role="button" aria-disabled="true">Disabled Button</a>
+</p>
+]]></content>
+	<tabTrigger>tc:btn</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat button</description>
+</snippet>

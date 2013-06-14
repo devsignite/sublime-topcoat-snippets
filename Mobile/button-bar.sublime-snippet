@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="button-bar">
+	<a href="#mobile-button-bar" class="dark-button down" role="button">First</a>
+	<a href="#mobile-button-bar" class="dark-button" role="button">Second</a>
+	<a href="#mobile-button-bar" class="dark-button" role="button">Third</a>
+</div>
+]]></content>
+	<tabTrigger>tc:br</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat button bar</description>
+</snippet>

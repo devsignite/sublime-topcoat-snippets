@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<input type="search" class="dark-search-input ${1:'disabled|large-text-input'}" value="" placeholder="Large Search">
+<p>
+	<a href="#mobile-icon-button" class="dark-button icon-button no-label" role="button"><i class="icon">Icon alt</i></a>
+	<a class="dark-button icon-button no-label disabled" role="button" aria-disabled="true"><i class="icon">Icon alt</i></a>
+	<a href="#mobile-icon-button" class="quiet-button icon-button dark-button no-label" role="button"><i class="icon">Icon alt</i></a>
+	<a class="quiet-button icon-button dark-button no-label disabled" role="button" aria-disabled="true"><i class="icon">Icon alt</i></a>
+</p>
+<p>
+	<a href="#mobile-icon-button" class="large-button icon-button dark-button no-label" role="button"><i class="icon">Icon alt</i></a>
+	<a class="large-button icon-button dark-button no-label disabled" role="button" aria-disabled="true"><i class="icon">Icon alt</i></a>
+	<a href="#mobile-icon-button" class="large-button icon-buttonn quiet-button dark-button no-label" role="button"><i class="icon">Icon alt</i></a>
+	<a class="large-button icon-button quiet-button dark-button no-label disabled" role="button" aria-disabled="true"><i class="icon">Icon alt</i></a>
+</p>
+]]></content>
+	<tabTrigger>tc:ibtn</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat icon button</description>
+</snippet>

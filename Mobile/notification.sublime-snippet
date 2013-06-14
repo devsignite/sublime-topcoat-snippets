@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<p>
+	<strong>Inbox</strong> <span class="notification">1</span>
+</p>
+]]></content>
+	<tabTrigger>tc:n</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat notification</description>
+</snippet>

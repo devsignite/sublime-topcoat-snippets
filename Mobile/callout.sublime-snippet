@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<section class="dark-callout">
+	<ul class="inline-list">
+		<li class="inline-item"><a href="#m-callout"><i class="icon">Icon alt</i></a></li>
+		<li class="inline-item"><a href="#m-callout"><i class="icon">Icon alt</i></a></li>
+		<li class="inline-item"><a href="#m-callout"><i class="icon">Icon alt</i></a></li>
+		<li class="inline-item"><a href="#m-callout"><i class="icon">Icon alt</i></a></li>
+	</ul>
+</section>
+]]></content>
+	<tabTrigger>tc:callout</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat callout</description>
+</snippet>

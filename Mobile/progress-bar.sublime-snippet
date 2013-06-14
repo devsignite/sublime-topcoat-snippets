@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="dark-progress-bar">
+	<span class="progress"></span>
+</div>
+]]></content>
+	<tabTrigger>tc:pr</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat progress bar</description>
+</snippet>

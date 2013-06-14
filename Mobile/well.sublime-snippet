@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<section class="dark-well">
+	<section class="user-details">
+		<img src="img/avatar.png" class="user-img" alt="Michael Peterson">
+			<div class="user-info">
+				<h1>Michael Peterson</h1>
+				<p><a href="#">www.mikesphotos.com</a></p>
+			</div>
+		</section>
+
+		<dl class="following">
+			<dt>Following</dt>
+			<dd>123</dd>
+		</dl>
+
+		<dl class="followers">
+			<dt>Followers</dt>
+			<dd>27</dd>
+		</dl>
+	</section>
+ ]]></content>
+	<tabTrigger>tc:well</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat well</description>
+</snippet>

@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<p>
+	<input type="radio" id="radio-5" name="dark-left">
+	<label for="radio-5" class="dark-radio radio-left">Extremely Long Label</label>
+	<br>
+	<input type="radio" id="radio-6" name="dark-left">
+	<label for="radio-6" class="dark-radio radio-left">Short Label</label>
+	<br>
+	<input type="radio" id="radio-4a" name="light-left" disabled="">
+	<label for="radio-4a" class="dark-radio radio-left">Disabled</label>
+</p>
+<p>
+	<input type="radio" id="radio-7" name="dark-right">
+	<label for="radio-7" class="dark-radio radio-right">Extremely Long Label</label>
+		<br>
+	<input type="radio" id="radio-8" name="dark-right">
+	<label for="radio-8" class="dark-radio radio-right">Short Label</label>
+</p>
+]]></content>
+	<tabTrigger>tc:rb</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat radio button</description>
+</snippet>

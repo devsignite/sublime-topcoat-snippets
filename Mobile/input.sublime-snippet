@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<input type="text" class="dark-text-input ${1:'disabled|large-text-input'}" value="" placeholder="Large Search">
+]]></content>
+	<tabTrigger>tc:ti</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat text input</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<p><textarea class="dark-textarea ${1:'large-textarea|small-textarea'}" rows="6" cols="36" placeholder="Large Textarea"></textarea></p>
+]]></content>
+	<tabTrigger>tc:ta</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat textarea</description>
+</snippet>

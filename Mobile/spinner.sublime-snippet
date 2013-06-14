@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="spinner"></div>
+]]></content>
+	<tabTrigger>tc:s</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat spinner</description>
+</snippet>

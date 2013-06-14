@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<ul class="dark-tab-bar">
+	<a href="">#1</a>
+	<a href="" class="down">#2</a>
+	<a href="">#3</a>
+	<a href="">#4</a>
+	<a href="">#5</a>
+</ul>
+]]></content>
+	<tabTrigger>tc:tb</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat tap bar</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<label for="slide">Slide Switch</label>
+<div class="slide-switch-container">
+	<input type="checkbox" name="dark-switch" id="slide" checked="">
+	<label class="dark-slide-switch" for="slide">
+		<div class="on-off"></div>
+		<div class="switch"></div>
+	</label>
+</div>
+]]></content>
+	<tabTrigger>tc:swt</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat switch</description>
+</snippet>

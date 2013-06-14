@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<p>
+	<a href="#m-combo-box" class="dark-combo" role="button">Combo Box Dialog</a>
+</p>
+<ul class="dark-combo-drop">
+	<li>House</li>
+	<li class="chosen">Apartment</li>
+	<li>Condo</li>
+	<li>Houseboat</li>
+	<li>Cabin</li>
+</ul>
+]]></content>
+	<tabTrigger>tc:cb</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat combo box</description>
+</snippet>

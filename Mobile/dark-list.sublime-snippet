@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<ul class="dark-list">
+	<li>First Item</li>
+	<li>Second Item</li>
+	<li>Third Item</li>
+	<li>Fourth Item</li>
+</ul>
+]]></content>
+	<tabTrigger>tc:dl</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat dark lsit</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<p><input type="range" class="dark-slider" name="" value=""></p>
+]]></content>
+	<tabTrigger>tc:sld</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat slider</description>
+</snippet>

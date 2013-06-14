@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<p>
+	<a href="#mobile-cta-button" class="dark-cta dark-button" role="button">Button</a>
+	<a class="dark-cta dark-button disabled" role="button" aria-disabled="true">Disabled Button</a>
+</p>
+<p>
+	<a href="#mobile-cta-button" class="large-button dark-cta dark-button" role="button">Large Button</a>
+	<a class="large-button dark-cta dark-button disabled" role="button" aria-disabled="true">Large Disabled Button</a>
+</p>
+]]></content>
+	<tabTrigger>tc:ctabtn</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat call to action button</description>
+</snippet>

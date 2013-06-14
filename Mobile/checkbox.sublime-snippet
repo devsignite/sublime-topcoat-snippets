@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<p>
+	<input type="checkbox" id="checkbox-5" checked="">
+	<label for="checkbox-5" class="dark-checkbox checkbox-left">Extremely Long Label</label>
+	<br>
+	<input type="checkbox" id="checkbox-6">
+	<label for="checkbox-6" class="dark-checkbox checkbox-left">Short Label</label>
+	<br>
+	<input type="checkbox" id="checkbox-6a" disabled="">
+	<label for="checkbox-6a" class="dark-checkbox checkbox-left">Disabled</label>
+</p>
+<p>
+	<input type="checkbox" id="checkbox-7">
+	<label for="checkbox-7" class="dark-checkbox checkbox-right">Extremely Long Label</label>
+	<br>
+	<input type="checkbox" id="checkbox-8">
+	<label for="checkbox-8" class="dark-checkbox checkbox-right">Short Label</label>
+</p>
+]]></content>
+	<tabTrigger>tc:checkbox</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Topcoat checkbox</description>
+</snippet>
